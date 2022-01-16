@@ -1,2 +1,2 @@
 # exercies
-Programming exercises
+Programming exercises for candidates
